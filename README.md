@@ -23,6 +23,7 @@ The Average Math and reading score, % Passing Math and Reading as well as % Over
 •	Hence, comparing both before and after there’s close to no change in the district summary data.
 
 How is the school summary affected?
+
 •	Before Cleanup observations - Thomas High School ranked 2rd in place with a 91% Overall Passing.
 
 ![school summary 1](https://user-images.githubusercontent.com/89875689/137234632-9691c090-c9cc-479d-92fc-5b5f1def1670.png)
